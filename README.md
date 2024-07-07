@@ -10,9 +10,9 @@ Let me introduce myself. My name is "Fariskha Agustino Farendra", you can call m
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FarendraAugust&show_icons=true&locale=en&layout=compact&theme=dark" alt="FarendraAugust" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hansputera&show_icons=true&locale=en&theme=dark" alt="hansputera" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FarendraAugust&show_icons=true&locale=en&theme=dark" alt="FarendraAugust" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=hansputera&layout=compact" alt="hansputera" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=FarendraAugust&layout=compact" alt="FarendraAugust" /></p>
 
 -------------------------
 
