@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-Let me introduce myself. My name is "Fariskha Agustino Farendra", you can call me "Faris". I'm 15 years old. And, I'm from Tulungagung, East Java, Indonesia. I love web development (I think), and creating bugs 🐛
+Let me introduce myself. My name is "Fariskha Agustino Farendra", you can call me "Faris". I'm 16 years old. And, I'm from Tulungagung, East Java, Indonesia. I love web development (I think), and creating bugs 🐛
 
 ## Statistics 🔥
 
